@@ -1,0 +1,702 @@
+[
+  [
+    [
+      "i said",
+      "1066"
+    ],
+    "sadness"
+  ],
+  [
+    [
+      "i don’t think she likes me very much, though. we’ve barely even spoken to each other for a while. i don’t know how to get her to warm up to me.",
+      "104"
+    ],
+    "surprise"
+  ],
+  [
+    [
+      "errrrr…yeah, that m-might be tricky…",
+      "104"
+    ],
+    "surprise"
+  ],
+  [
+    [
+      "we could go around yellin’ about how cool you are, if ya want…",
+      "104"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "hmm",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "i hadn’t considered an information warfare strategy",
+      "1066"
+    ],
+    "surprise"
+  ],
+  [
+    [
+      "maybe norn would be more willing to give me a chance if she thought i was the most popular guy in school",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "but if i gave the job to linia and pursena, they’d probably just spread a bunch of nonsense about me beating the crap out of people",
+      "1066"
+    ],
+    "anger"
+  ],
+  [
+    [
+      "i’d prefer more of the",
+      "1066"
+    ],
+    "joy"
+  ],
+  [
+    [
+      "rudeus saved a puppy",
+      "9136"
+    ],
+    "joy"
+  ],
+  [
+    [
+      "angle, honestly",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "maybe an edited version of the day i met julie would work",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "anyway, the real problem is that she doesn’t seem to have any friends yet,",
+      "9136"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "i said",
+      "1066"
+    ],
+    "sadness"
+  ],
+  [
+    [
+      "she’s only been here for a month, so maybe it’s too early for me to be worrying about this… but she’s a transfer student, you know? i bet she’s having a hard time fitting in.",
+      "9136"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "w-well, it’s early, right?",
+      "9136"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "yeah. maybe, uh…she just hasn’t had the time to get to know people yet?",
+      "9136"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "for some reason, linia and pursena seemed a little anxious",
+      "1066"
+    ],
+    "fear"
+  ],
+  [
+    [
+      "they were stumbling over their words, and that usually meant they were hiding something from me",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "please don’t tell me you two have been picking on my sister.",
+      "1112"
+    ],
+    "anger"
+  ],
+  [
+    [
+      "n-now you’re just being dumb!",
+      "1112"
+    ],
+    "anger"
+  ],
+  [
+    [
+      "of course not, boss! you told us not to pick on anybody weaker than us!",
+      "1112"
+    ],
+    "anger"
+  ],
+  [
+    [
+      "okay",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "so why are you going pale, then? there was definitely something going on here, though i didn’t know what yet",
+      "1066"
+    ],
+    "surprise"
+  ],
+  [
+    [
+      "in any case, i could probably take advantage of their guilty consciences to ensure they’d intervene if anyone tried to bully norn",
+      "1066"
+    ],
+    "fear"
+  ],
+  [
+    [
+      "h-how old is your little sister, boss?",
+      "1112"
+    ],
+    "surprise"
+  ],
+  [
+    [
+      "is she older than the maid one? or younger?",
+      "1112"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "uh, they’re the same age. she’s ten.",
+      "1112"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "really?! phew!",
+      "1112"
+    ],
+    "surprise"
+  ],
+  [
+    [
+      "good to hear! yeah, we didn’t do nothin’ to her.",
+      "1112"
+    ],
+    "joy"
+  ],
+  [
+    [
+      "in other words, they’d done something to somebody",
+      "1066"
+    ],
+    "disgust"
+  ],
+  [
+    [
+      "maybe they made a habit of teaching cocky new students their place in the pecking order or something?",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "so boss, uh, about that present…",
+      "1112"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "don’t get mad at us if you don’t like it, okay? we worked really hard on it.",
+      "1112"
+    ],
+    "anger"
+  ],
+  [
+    [
+      "it seemed kind of weird that they were revisiting this topic now",
+      "1066"
+    ],
+    "surprise"
+  ],
+  [
+    [
+      "why did they look so nervous about it all of a sudden? it was a little bit unsettling, but i was definitely curious to find out what they’d gotten me at this point",
+      "1066"
+    ],
+    "fear"
+  ],
+  [
+    [
+      "hey, it’s the thought that counts, right? i won’t get mad, i promise.",
+      "1112"
+    ],
+    "anger"
+  ],
+  [
+    [
+      "i wouldn’t exactly be overjoyed to find a bunch of dead mice inside or anything, but i wasn’t going to hold it against them",
+      "1066"
+    ],
+    "joy"
+  ],
+  [
+    [
+      "at this point, i noticed cliff looking at me from his seat a few spots over",
+      "1066"
+    ],
+    "surprise"
+  ],
+  [
+    [
+      "hey. you have any advice for this thing with my sister, cliff?",
+      "1052"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "…hmph. who says you need friends, anyway?",
+      "1052"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "wow",
+      "1066"
+    ],
+    "surprise"
+  ],
+  [
+    [
+      "did somebody need a hug today or what? still, cliff wasn’t the loner he used to be anymore",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "he had elinalise now",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "and me, for whatever that was worth",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "maybe norn would never be as popular as that social butterfly, but i had to hope she’d get to know a few people herself one of these days",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "recently, nanahoshi had begun showing up at the dining hall around lunchtime",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "maybe she’d finally figured out the importance of eating actual meals",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "not that she was being particularly sociable about it… noticing my gaze, she turned to glare at me",
+      "1066"
+    ],
+    "anger"
+  ],
+  [
+    [
+      "you need something?",
+      "1012"
+    ],
+    "surprise"
+  ],
+  [
+    [
+      "nah, not really.",
+      "1012"
+    ],
+    "surprise"
+  ],
+  [
+    [
+      "although nanahoshi had taken the initiative to introduce japanese cooking to the campus, she’d almost never ventured out to sample the results until now",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "she didn’t like the food much, and she usually looked a little miserable when she was eating it",
+      "1066"
+    ],
+    "sadness"
+  ],
+  [
+    [
+      "you don’t seem to be enjoying that,",
+      "9017"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "i said",
+      "1066"
+    ],
+    "sadness"
+  ],
+  [
+    [
+      "well, i’m not. i know i’m the one who came up with the recipe, but it’s terrible.",
+      "9017"
+    ],
+    "disgust"
+  ],
+  [
+    [
+      "the ingredients here aren’t as good as what we had back in japan, i guess.",
+      "9017"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "that’s for sure.",
+      "9017"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "is there any kind of food from this world that you do like?",
+      "9017"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "those potato chips i ate at your house, i guess. those were good.",
+      "9017"
+    ],
+    "joy"
+  ],
+  [
+    [
+      "i guess she meant the ones sylphie made at home",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "that made sense",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "simple snacks like those didn’t taste that different from the ones we had back in japan",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "want us to make you more?",
+      "9017"
+    ],
+    "surprise"
+  ],
+  [
+    [
+      "…that won’t be necessary.",
+      "9017"
+    ],
+    "sadness"
+  ],
+  [
+    [
+      "okay, then",
+      "1066"
+    ],
+    "surprise"
+  ],
+  [
+    [
+      "next time she came over to use our bath, i’d have some waiting for her",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "badigadi wasn’t here today, either",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "he used to stop by the dining hall on a regular basis, but i hadn’t seen him at all in the last month",
+      "1066"
+    ],
+    "surprise"
+  ],
+  [
+    [
+      "i really wanted to sit down with him and have a talk about ruijerd",
+      "1066"
+    ],
+    "joy"
+  ],
+  [
+    [
+      "at least julie’s table manners were starting to improve a little in his absence",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "ginger was teaching her some basic etiquette, but it would have been a lost cause with the big man around",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "the place felt a little empty without him, though",
+      "1066"
+    ],
+    "sadness"
+  ],
+  [
+    [
+      "i kind of missed that constant booming laughter of his",
+      "1066"
+    ],
+    "sadness"
+  ],
+  [
+    [
+      "the more you laugh, the more you live, right? maybe i should give it a shot myself",
+      "1066"
+    ],
+    "joy"
+  ],
+  [
+    [
+      "fwahahahaha!",
+      "12787"
+    ],
+    "joy"
+  ],
+  [
+    [
+      "uh, wh-why are you laughing? did i do something funny?",
+      "12787"
+    ],
+    "surprise"
+  ],
+  [
+    [
+      "master?",
+      "12787"
+    ],
+    "surprise"
+  ],
+  [
+    [
+      "grandmaster…?",
+      "12787"
+    ],
+    "surprise"
+  ],
+  [
+    [
+      "all my experiment earned was a bunch of puzzled looks from everyone at the table",
+      "1066"
+    ],
+    "surprise"
+  ],
+  [
+    [
+      "it was kind of embarrassing, to be honest",
+      "1066"
+    ],
+    "sadness"
+  ],
+  [
+    [
+      "i guess i wasn’t cut out to fill badigadi’s shoes",
+      "1066"
+    ],
+    "sadness"
+  ],
+  [
+    [
+      "what’s so amusing, if i might ask?",
+      "1012"
+    ],
+    "surprise"
+  ],
+  [
+    [
+      "luke had popped up out of nowhere",
+      "1066"
+    ],
+    "surprise"
+  ],
+  [
+    [
+      "he was looking sharp as ever, but no adoring fans tailed him today",
+      "1066"
+    ],
+    "sadness"
+  ],
+  [
+    [
+      "sylphie wasn’t with him, either",
+      "1066"
+    ],
+    "sadness"
+  ],
+  [
+    [
+      "nothing. i haven’t seen our resident demon king for a while, so i was trying to summon him with my laughter,",
+      "12787"
+    ],
+    "joy"
+  ],
+  [
+    [
+      "i said",
+      "1066"
+    ],
+    "sadness"
+  ],
+  [
+    [
+      "i see. in any case, rudeus, could i trouble you to accompany me to the student council room?",
+      "12787"
+    ],
+    "anger"
+  ],
+  [
+    [
+      "luke’s expression was troubled",
+      "1066"
+    ],
+    "sadness"
+  ],
+  [
+    [
+      "was something wrong?",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "sure, no problem.",
+      "12787"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "i bolted down the last of my food in a few seconds, rose to my feet, and followed luke",
+      "1066"
+    ],
+    "anger"
+  ],
+  [
+    [
+      "i couldn’t have told you why, but i got the impression luke was angry about something",
+      "1066"
+    ],
+    "anger"
+  ],
+  [
+    [
+      "he didn’t say much on our way to the student council room, and his footsteps were louder than usual",
+      "1066"
+    ],
+    "surprise"
+  ],
+  [
+    [
+      "ariel and sylphie were waiting for us inside, as i’d expected",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "the princess’s expression was as impassive as ever, but she looked a touch pale",
+      "1066"
+    ],
+    "disgust"
+  ],
+  [
+    [
+      "sylphie seemed kind of anxious, too",
+      "1066"
+    ],
+    "fear"
+  ],
+  [
+    [
+      "the new term had only just begun, but apparently, we already had some sort of an incident on our hands",
+      "1066"
+    ],
+    "neutral"
+  ],
+  [
+    [
+      "hello, everyone. is something wrong?",
+      "1084"
+    ],
+    "surprise"
+  ]
+]
