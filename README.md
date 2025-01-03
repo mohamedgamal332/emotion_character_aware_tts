@@ -1,14 +1,14 @@
 # Emotion-Character-Aware TTS
 
 ## Overview
-Emotion-Character-Aware TTS is a novel processing pipeline designed to transform written novels into emotionally rich and character-aware audiobooks. The system extracts characters from the text, identifies their gender, and analyzes the emotional tone of their dialogue. This information is then passed to a Text-to-Speech (TTS) engine, which generates spoken audio with appropriate emotional and character-specific inflections.
+Emotion-Character-Aware TTS is a novel processing pipeline designed to transform written novels into emotionally rich and character-aware audiobooks. The system extracts characters from the text using the **BART model**, identifies their gender, and analyzes the emotional tone of their dialogue. This information is then passed to a Text-to-Speech (TTS) engine, which generates spoken audio with appropriate emotional and character-specific inflections.
 
 The project leverages state-of-the-art NLP models for sentiment analysis and a powerful TTS engine to create a seamless and immersive audiobook experience. It is particularly useful for authors, publishers, and audiobook producers who want to automate the process of converting novels into high-quality, emotionally expressive audio content.
 
 ## Key Features
 
 1. **Character Extraction**:
-   - Identifies characters in the novel and clusters them based on semantic and string similarity.
+   - Uses the [BART model](https://huggingface.co/docs/transformers/model_doc/bart) to identify characters in the novel and cluster them based on semantic and string similarity.
    - Determines the gender of each character using contextual analysis.
 
 2. **Sentiment Analysis**:
@@ -25,7 +25,7 @@ The project leverages state-of-the-art NLP models for sentiment analysis and a p
 
 1. **Input**: A novel in PDF or text format.
 2. **Character Extraction**:
-   - Extracts characters and their dialogue.
+   - Extracts characters and their dialogue using the BART model.
    - Determines character gender based on contextual clues.
 3. **Sentiment Analysis**:
    - Analyzes the emotional tone of each character's dialogue using a pre-trained sentiment analysis model.
@@ -111,6 +111,7 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 ## Acknowledgments
 
+- [BART](https://huggingface.co/docs/transformers/model_doc/bart) for character extraction.
 - [EmotiVoice](https://github.com/netease-youdao/EmotiVoice) for the TTS engine.
 - [j-hartmann/emotion-english-distilroberta-base](https://huggingface.co/j-hartmann/emotion-english-distilroberta-base) for sentiment analysis.
 - [PyPDF2](https://pypi.org/project/PyPDF2/) for PDF text extraction.
@@ -119,4 +120,4 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 For questions or feedback, please open an issue on GitHub or contact the maintainer at mohamednafel006@gmail.com.
 
-Enjoy creating emotionally rich audiobooks with Emotion-Character-Aware TTS! 🎧📚
+Enjoy creating emotionally rich audiobooks with Emotion-Character-Aware TTS! 
