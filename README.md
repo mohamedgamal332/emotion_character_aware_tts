@@ -73,7 +73,7 @@ The project leverages state-of-the-art NLP models for sentiment analysis and a p
      ```
 
 3. **Output**:
-   - The final audiobook will be saved as `Audiobook.mp3` in the `output` directory.
+   - The final audiobook will be saved as `Audiobook.mp3` in the `main` directory.
 
 ## API Request Format
 
