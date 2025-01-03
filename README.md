@@ -109,10 +109,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with a detailed description of your changes.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgments
 
 - [EmotiVoice](https://github.com/netease-youdao/EmotiVoice) for the TTS engine.
